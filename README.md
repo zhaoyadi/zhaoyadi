@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Xiaomi Mi11](https://img.shields.io/badge/Xiaomi%20Mi11-fe6900?style=flat&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Mi6](https://img.shields.io/badge/Xiaomi%20Mi6-fe6900?style=flat&logo=xiaomi&logoColor=ffffff)
+![Xiaomi Mi14](https://img.shields.io/badge/Xiaomi%20Mi14-fe6900?style=flat&logo=xiaomi&logoColor=ffffff)
 
 <!---
 zhaoyadi/zhaoyadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
